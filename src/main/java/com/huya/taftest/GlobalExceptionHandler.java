@@ -1,5 +1,7 @@
 package com.huya.taftest;
 
+import com.huya.taftest.common.Result;
+import com.huya.taftest.common.ResultCode;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseBody;

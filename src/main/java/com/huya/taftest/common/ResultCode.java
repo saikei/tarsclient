@@ -1,4 +1,4 @@
-package com.huya.taftest;
+package com.huya.taftest.common;
 
 /**
  * @author saikei

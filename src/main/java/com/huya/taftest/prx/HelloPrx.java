@@ -1,4 +1,4 @@
-package com.huya.taftest;
+package com.huya.taftest.prx;
 
 import com.huya.taf.protocol.annotation.Servant;
 
@@ -9,4 +9,6 @@ import com.huya.taf.protocol.annotation.Servant;
 @Servant
 public interface HelloPrx {
     String hello();
+
+    String sorry();
 }
