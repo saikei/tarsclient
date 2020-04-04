@@ -15,8 +15,8 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.huya.taf</groupId>
-            <artifactId>taf-core</artifactId>
+            <groupId>com.tencent.tars</groupId>
+            <artifactId>tars-core</artifactId>
             <!--不去掉的话编译有冲突，旧版不兼容问题-->
             <exclusions>
                 <exclusion>
@@ -24,7 +24,7 @@
                     <artifactId>servlet-api</artifactId>
                 </exclusion>
             </exclusions>
-            <version>1.3.0</version>
+            <version>1.6.1</version>
         </dependency>
         <dependency>
             <groupId>javax.servlet</groupId>

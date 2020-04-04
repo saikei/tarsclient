@@ -1,9 +1,10 @@
 package com.huya.taftest.controller;
 
-import com.huya.taf.client.Communicator;
-import com.huya.taf.client.CommunicatorConfig;
-import com.huya.taf.client.CommunicatorFactory;
+
 import com.huya.taftest.prx.HelloPrx;
+import com.qq.tars.client.Communicator;
+import com.qq.tars.client.CommunicatorConfig;
+import com.qq.tars.client.CommunicatorFactory;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;

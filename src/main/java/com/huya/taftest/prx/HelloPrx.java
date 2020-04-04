@@ -1,6 +1,7 @@
 package com.huya.taftest.prx;
 
-import com.huya.taf.protocol.annotation.Servant;
+
+import com.qq.tars.protocol.annotation.Servant;
 
 /**
  * @author saikei
